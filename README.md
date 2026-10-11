@@ -149,5 +149,5 @@ ROUND( DIVIDE([IoT Revenue], [Total Revenue]) * 100, 1 ) / 100
 ## 📬 Author
 
 **Jitender Maan** — MIS Executive → Data Analyst (in transition)
-🌐 [Portfolio](https://jitender-maan.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jitenderjeet/) · 📍 Sonipat, Haryana
+🌐 [Portfolio](https://jitenderda.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jitender-da) · 📍 Sonipat, Haryana
 *Open to Data Analyst opportunities — remote or hybrid.*
